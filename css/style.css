@@ -1951,3 +1951,15 @@ img.svg{
     line-height: 20px;
     padding: 10px 0;
   }
+
+.mystyle {
+  
+    display: -webkit-box;
+  
+    display: -ms-flexbox;
+  
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+
+}
